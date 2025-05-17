@@ -88,3 +88,8 @@ Bu uygulama, Python programlama dili ve grafik kullanıcı arayüzü (GUI) tekno
 
 ```bash
 pip install customtkinter pillow mysql-connector-python
+
+###👨‍💻 Geliştirici
+Zehra Işık
+📧 isikkzehraa@gmail.com
+🛠️ Sürüm: 1.0
