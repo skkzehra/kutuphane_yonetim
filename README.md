@@ -38,7 +38,7 @@ Bu uygulama, Python programlama dili ve grafik kullanıcı arayüzü (GUI) tekno
 ## 📷 Uygulama Arayüzünden Görseller
 
 ### 🔐 Giriş Ekranı
-![Giriş Ekranı](https://github.com/skkzehra/kutuphane_yonetim/blob/main/kütüphane_yönetimi/ss/Ekran%20Resmi%202025-05-17%2013.48.53.png)
+![Giriş Ekranı](https://github.com/skkzehra/kutuphane_yonetim/blob/main/kütüphane_yönetimi/ss/Ekran%20Resmi%202025-05-17%2013.48.53.png)
 
 ---
 
