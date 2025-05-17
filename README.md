@@ -1,5 +1,10 @@
 # 📚 Kütüphane Yönetim Sistemi - Python OOP GUI Uygulaması
 
+<p align="center">
+  <img src="giriş_ekranı.png" alt="Giriş Ekranı" width="400">
+  <img src="ana_menu.png" alt="Ana Menü" width="400">
+</p>
+
 Bu uygulama, Python programlama dili ve grafik kullanıcı arayüzü (GUI) teknolojileri kullanılarak geliştirilmiş kapsamlı bir kütüphane otomasyon sistemidir. Nesne yönelimli programlama (OOP) prensiplerine dayanarak geliştirilmiş olup, MySQL veritabanı ile entegre çalışmaktadır.
 
 ## 🧱 Kullanılan Teknolojiler
@@ -20,13 +25,38 @@ Uygulama, OOP'nin temel prensiplerini benimseyerek modüler, esnek ve bakımı k
 
 ## ⚙️ Özellikler
 
-* **👤 Kullanıcı Girişi & Kayıt Olma:** Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır. Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
+* **👤 Kullanıcı Girişi & Kayıt Olma:**
+  <p align="center">
+    <img src="giriş_ekranı.png" alt="Kullanıcı Girişi Ekranı" width="400">
+  </p>
+  Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır. Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
+
 * **📄 Üye Kayıt ve Yönetimi:** Üye bilgilerinin (ad, soyad, kimlik no vb.) kaydedilmesi, güncellenmesi ve yönetilmesi.
-* **📚 Kitap Ekleme, Arama ve Listeleme:** Kitap bilgilerinin (ad, yazar, durum vb.) sisteme eklenmesi, mevcut kitapların listelenmesi ve aranması.
-* **📆 Kitap Ödünç Alma ve İade Etme:** Üyelere kitap ödünç verme ve iade alma işlemlerinin gerçekleştirilmesi, ödünç sürelerinin takibi.
+
+* **📚 Kitap Ekleme, Arama ve Listeleme:**
+  <p align="center">
+    <img src="kitap_arama.png" alt="Kitap Arama Ekranı" width="400">
+    <img src="kitap_listesi.png" alt="Kitap Listesi Ekranı" width="600">
+  </p>
+  Kitap bilgilerinin (ad, yazar, durum vb.) sisteme eklenmesi, mevcut kitapların listelenmesi ve aranması.
+
+* **📆 Kitap Ödünç Alma ve İade Etme:**
+  <p align="center">
+    <img src="kitap_odunc_alma.png" alt="Kitap Ödünç Alma Ekranı" width="400">
+  </p>
+  Üyelere kitap ödünç verme ve iade alma işlemlerinin gerçekleştirilmesi, ödünç sürelerinin takibi.
+
 * **📜 Ödünç Geçmişi ve Aktif Ödünçler:** Geçmiş ödünç kayıtlarının görüntülenmesi ve şu anda devam eden aktif ödünç işlemlerinin takibi.
+
 * **💾 MySQL Veritabanı Entegrasyonu:** Verilerin güvenli ve kalıcı olarak saklanmasını sağlayan MySQL veritabanı ile sorunsuz entegrasyon.
+
 * **🌙 Dark Mode Desteği:** Kullanıcı tercihine göre ayarlanabilen, göz yorgunluğunu azaltan modern karanlık tema desteği.
+
+* **👤 Üye Profili:**
+  <p align="center">
+    <img src="uye_profili.png" alt="Üye Profili Ekranı" width="400">
+  </p>
+  Kullanıcıların kendi profil bilgilerini görüntüleyebildiği ve ödünç aldıkları kitapları takip edebildiği bölüm.
 
 ## 🗃️ Veritabanı Yapısı
 
@@ -52,7 +82,7 @@ Uygulama, verileri düzenli ve verimli bir şekilde saklamak için aşağıdaki 
     ```bash
     python kütüphane_yönetim.py  # veya uygulamanızın adı
     ```
-    
+
 ## 👨‍💻 Geliştirici
 
 \[Zehra Işık]
